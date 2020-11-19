@@ -33,3 +33,8 @@ def B():
 	# Metodo MB2
 	def MB2():
 		print("MB2")
+		
+	# Metodo MB3
+	def MB3():
+		print("MB3")
+
