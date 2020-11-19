@@ -13,6 +13,9 @@ def D:
 	def MD2():
 		print("MD2")
 		
+	# Metodo MD3
+	def MD3():
+		print("MD3")
 	# Metodo MD4
 	def MD4():
 		print("MD4")
