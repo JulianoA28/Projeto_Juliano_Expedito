@@ -12,4 +12,7 @@ def D:
 	# Metodo MD2
 	def MD2():
 		print("MD2")
-
+		
+	# Metodo MD4
+	def MD4():
+		print("MD4")
